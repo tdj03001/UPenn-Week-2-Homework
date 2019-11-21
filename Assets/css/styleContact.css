@@ -1,0 +1,89 @@
+h1 {
+  float: left;
+  background-color: #4aaaa5;
+  color: white;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  margin-left: 140px;
+  padding: 20px;
+  width: 200px;
+  text-align: center;
+  font-size: 25px;
+  font-family: Nunito, Roboto, Montserrat, Alata;
+}
+
+.navbar {
+  font-family: Nunito, Roboto, Montserrat, Alata;
+}
+
+#About {
+  color: #777777;
+}
+
+#Portfolio {
+  color: #777777;
+}
+
+#Contact {
+  color: #777777;
+}
+
+.divider {
+  width: 50%;
+  height: 3px;
+  background-color: #999;
+}
+
+#contact-form {
+  clear:both;
+  overflow: 0;
+}
+
+h2 {
+  color: #4aaaa5;
+  font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+#namefield {
+  width: 500px;
+}
+
+#emailfield {
+  width: 500px;
+}
+
+#messagefield {
+  width: 500px;
+  height: 100px;
+  padding: 0;
+}
+
+
+#submitbutton {
+  position: relative;
+  background-color: #4aaaa5;
+  color: #eee;
+  margin-bottom: 40px;
+
+}
+
+
+body {
+  min-height: 600px;
+   margin-bottom: 100px;
+   clear: both;
+}
+
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding-top: 30px;
+  border-top: 8px solid #4aaaa5;
+  background-color: #666666;
+  color: #777777;
+  text-align: center;
+}
