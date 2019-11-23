@@ -18,8 +18,7 @@ h1 {
 }
 
 body {
-  background: url("https://i.ytimg.com/vi/uNCr7NdOJgw/maxresdefault.jpg");
-  background-repeat: no-repeat;
+
 }
 
 h4 {
@@ -66,7 +65,13 @@ h4 {
 body {
   min-height: 600px;
   margin-bottom: 100px;
+  background: url("https://i.ytimg.com/vi/uNCr7NdOJgw/maxresdefault.jpg");
+  background-repeat: no-repeat;
   clear: both;
+}
+
+.container {
+  margin-top: 20px;
 }
 
 footer {
