@@ -30,8 +30,8 @@ h4 {
 body {
   min-height: 600px;
   margin-bottom: 100px;
-  background: url("https://i.ytimg.com/vi/uNCr7NdOJgw/maxresdefault.jpg");
-  background-repeat: no-repeat;
+  background: url("https://ridenow.sg/wp-content/uploads/2017/10/professional-images-for-website-background-13.jpg");
+  background-size: cover;
   clear: both;
 }
 .container {
@@ -44,7 +44,6 @@ img {
 
 .bio {
   padding-top: 20px;
-  color: #f5f5f5;
 }
 
 footer {
