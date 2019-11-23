@@ -33,6 +33,7 @@ h4 {
 
 #namelabel {
   margin-top: 20px;
+  font-weight: 600;  
 }
 
 #namefield {
@@ -41,10 +42,18 @@ h4 {
   width: 400px;
 }
 
+#emailLabel {
+  font-weight: 600;
+}
+
 #emailfield {
   margin-top: -10px;
   margin-bottom: 25px;
   width: 400px;
+}
+
+#messageLabel {
+  font-weight: 600;
 }
 
 #messagefield {
@@ -65,8 +74,8 @@ h4 {
 body {
   min-height: 600px;
   margin-bottom: 100px;
-  background: url("https://i.ytimg.com/vi/uNCr7NdOJgw/maxresdefault.jpg");
-  background-repeat: no-repeat;
+  background: url("https://ridenow.sg/wp-content/uploads/2017/10/professional-images-for-website-background-13.jpg");
+  background-size: cover;
   clear: both;
 }
 
@@ -84,4 +93,9 @@ footer {
   background-color: #666666;
   color: #777777;
   text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+ 
+  }
 }
