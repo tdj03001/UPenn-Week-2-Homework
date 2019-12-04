@@ -41,6 +41,14 @@ body {
   clear: both;
 }
 
+#triviatimecard {
+  margin-top: 50px;
+}
+
+#rutgerscard {
+  margin-top: 50px;
+}
+
 #rockpaperscissorscard {
   margin-top: 50px;
 }
