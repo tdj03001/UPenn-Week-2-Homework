@@ -41,11 +41,11 @@ body {
   clear: both;
 }
 
-#billboard {
-  margin-top: 50px;
+.card-text {
+  text-decoration: underline;
 }
 
-#rutgerscard {
+#billboard {
   margin-top: 50px;
 }
 
