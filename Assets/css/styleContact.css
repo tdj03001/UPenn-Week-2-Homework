@@ -17,10 +17,6 @@ h1 {
   font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 
-body {
-
-}
-
 h4 {
   color: #4aaaa5;
   font-family: 'Georgia', Times, 'Times New Roman', serif;
@@ -98,4 +94,3 @@ footer {
 @media only screen and (max-width: 600px) {
  
   }
-}
