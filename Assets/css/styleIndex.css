@@ -25,7 +25,7 @@ h1 {
 }
 
 h4 {
-  color: #4aaaa5;
+  color:#4aaaa5;
   font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 
@@ -37,6 +37,7 @@ h4 {
 body {
   min-height: 600px;
   margin-bottom: 100px;
+  /* background-image: url(../images/twilight-mountain-background.png); */
   background: url("https://ridenow.sg/wp-content/uploads/2017/10/professional-images-for-website-background-13.jpg");
   background-size: cover;
   clear: both;
