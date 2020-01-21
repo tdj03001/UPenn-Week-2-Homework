@@ -41,6 +41,7 @@ body {
   background-size: cover;
   clear: both;
 }
+
 .container {
   margin-top: 20px;
 }
@@ -66,7 +67,5 @@ footer {
 }
 
 @media only screen and (max-width: 600px) {
-  body {
-    background-color: blue;
-  }
+  
 }
