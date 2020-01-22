@@ -52,6 +52,14 @@ body {
   text-decoration: underline;
 }
 
+#dayplanner {
+  margin-top: 50px;
+}
+
+#weatherDashboard {
+  margin-top: 50px;
+}
+
 #billboard {
   margin-top: 50px;
 }
