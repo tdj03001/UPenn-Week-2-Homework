@@ -1,5 +1,5 @@
 # Dev Portfolio
-
+  
 
 # Purpose
 
@@ -14,3 +14,5 @@ https://tdj03001.github.io/portfolio
 
 
 # GitHub Repo
+
+https://github.com/tdj03001/portfolio
